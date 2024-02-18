@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Who Goes First</string>
+    <string name="marker1_text">Team 1</string>
+    <string name="marker2_text">Team 2</string>
+    <string name="help_text">Team\'s name</string>
+    <string name="button_string">SELECT RANDOM TEAM</string>
+    <string name="selection_text">result shown here</string>
+</resources>
